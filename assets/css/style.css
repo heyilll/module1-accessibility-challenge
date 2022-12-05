@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed from linking to section called header to the semantic header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* Changed linking to section called header to the semantic header element */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changed linking to section called header to the semantic header element */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Changed linking to unordered list to the semantic nav element and consolidated repeating CSS*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +36,7 @@ nav {
     font-size: 20px;
 }
 
+/* Changed linking to unordered list to the semantic nav element and consolidated repeating CSS*/
 nav a {
     display: inline-block;
     margin-left: 25px;
@@ -71,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* Changed linking to section called benefits to the semantic aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -82,23 +88,27 @@ aside {
     background-color: #2589bd;
 }
 
+/* Changed linking to section called benefits to the semantic aside element, renamed aside sections and consolidated repeating CSS*/
 aside .benefit{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Changed linking to section called benefits to the semantic aside element and consolidated repeating CSS*/
 aside h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Changed linking to section called benefits to the semantic aside element and consolidated repeating CSS*/
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.card {
+/* Changed linking to each seperate section to the semantic article element and consolidated repeating CSS*/
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,15 +117,18 @@ aside img {
     color: #ffffff;
 }
 
-.card img {
+/* Changed linking to each seperate section to the semantic article element and consolidated repeating CSS*/
+article img {
     max-height: 200px;
 }
 
-.card h2 {
+/* Changed linking to each seperate section to the semantic article element and consolidated repeating CSS*/
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Changed from linking to section called footer to the semantic footer element */
 footer {
     padding: 30px;
     clear: both;
@@ -123,6 +136,7 @@ footer {
     text-align: center;
 }
 
+/* Changed from linking to section called footer to the semantic footer element */
 footer h3 {
     font-size: 20px;
 }
