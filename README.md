@@ -52,3 +52,4 @@ You are required to submit the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 Deployed site URL: https://heyilll.github.io/module1-accessibility-challenge/
+![Screenshot 2022-12-05 at 14-57-51 Horiseon Homepage](https://user-images.githubusercontent.com/117127128/205668776-ce2e11dc-4914-48ca-a6cc-04c160cccfd9.png)
